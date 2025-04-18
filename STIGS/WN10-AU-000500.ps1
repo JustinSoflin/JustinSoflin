@@ -25,8 +25,6 @@
     PS C:\> .\STIG-ID-WN10-AU-000500.ps1
 #>
 
-# YOUR CODE GOES HERE
-
 New-Item -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application" -Force
 
 Set-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application" -Name "MaxSize" -Value 0x8000 -Type DWord
