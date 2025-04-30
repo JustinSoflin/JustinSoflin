@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/justin-soflin/">Justin Soflin</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about cybersecurity and enjoy solving intricate problems through practical, hands-on work. Whether it's managing vulnerabilities or identifying threats, these projects have given me the opportunity to explore the dynamic world of cybersecurity. Take a look and see how I've contributed to improving security operations and processes!
 
 
 ## ⚠️ Vulnerability Management Projects
