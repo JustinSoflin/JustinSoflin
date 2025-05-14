@@ -1,0 +1,6 @@
+# Fully disable AutoRun (STIG WN10-CC-000185 check)
+Set-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" `
+    -Name "NoAutorun" -Value 1 -Type DWord
+
+# Optional: Refresh group policy to apply changes immediately
+gpupdate /force
