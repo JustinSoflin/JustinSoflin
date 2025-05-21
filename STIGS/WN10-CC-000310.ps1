@@ -23,7 +23,7 @@ This powershell script prevents users from changing installation options.
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\STIG-ID-WN10-CC-000310 .ps1
+    PS C:\> .\STIG-ID-WN10-CC-000310.ps1
 #>
 
 New-Item -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\Installer" -Force
