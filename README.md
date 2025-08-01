@@ -7,6 +7,7 @@ CompTIA Security+ (2026) <br>
 CISSP (2026) <br>
 <br>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=justinsoflin)
 
 ## Vulnerability Management Projects
 
