@@ -17,6 +17,7 @@ CISSP (2026) <br>
 ## Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-)**
+- **[Log Visualization Maps](https://github.com/JustinSoflin/Log-Visualization-Maps)**
 
 <hr/>
 
