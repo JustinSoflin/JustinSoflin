@@ -26,7 +26,7 @@
       <a href="https://github.com/JustinSoflin/vulnerability-management-project">
       <img src="https://img.shields.io/badge/Tenable-Enterprise%20Vulnerability%20Management-blue?logo=tenable" alt="Tenable" />
       </a>
- | 
+ &nbsp;&nbsp;
       <a href="https://github.com/JustinSoflin/vulnerability-management-project">
       <img src="https://img.shields.io/badge/Azure%20VMs-Scan%20Engines%20%26%20Targets-0078D4?logo=microsoftazure&logoColor=white" alt="Azure VMs" />
       </a>
@@ -47,7 +47,7 @@
       <strong><a href="https://github.com/joshcybertest/programmatic-vulnerability-remediations">Programmatic Vulnerability Remediations (PowerShell and BASH)</a></strong><br><br>
       • Automated mitigation steps using PowerShell and BASH scripts.<br><Br>
       <img src="https://img.shields.io/badge/PowerShell-Remediation-blue?logo=powershell&logoColor=white" alt="PowerShell" />
-       | 
+       &nbsp;&nbsp;
       <img src="https://img.shields.io/badge/BASH-Scripting-black?logo=gnubash" alt="BASH" />
     </td>
     <td>
@@ -69,7 +69,7 @@
      <a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">
       <img src="https://img.shields.io/badge/EDR-Microsoft%20Defender%20for%20Endpoint-green?logo=microsoftdefender&logoColor=white" alt="Microsoft Defender for Endpoint" />
      </a>
-       | 
+       &nbsp;&nbsp;
      <a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">
       <img src="https://img.shields.io/badge/Tor%20Browser-Anonymity-purple?logo=torproject&logoColor=white" alt="Tor Browser" />
      </a>
@@ -90,7 +90,7 @@
      <a href="https://github.com/JustinSoflin/Log-Visualization-Maps">
       <img src="https://img.shields.io/badge/KQL-Kusto%20Query%20Language-blueviolet" alt="KQL" />
      </a>
-       | 
+       &nbsp;&nbsp;
      <a href="https://github.com/JustinSoflin/Log-Visualization-Maps">
       <img src="https://img.shields.io/badge/Azure%20Workbooks-Log%20Visualization-0089D6?logo=microsoftazure&logoColor=white" alt="Azure Workbooks" />
      </a>
