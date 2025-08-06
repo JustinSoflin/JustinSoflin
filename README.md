@@ -25,12 +25,18 @@
       <strong><a href="https://github.com/JustinSoflin/vulnerability-management-project">Vulnerability Management Program Implementation</a></strong><br><br>
       • Designed and implemented a full vuln management cycle: <br>
           policy → scanning → remediation → repeat.<br><br>
+      <a href="https://github.com/JustinSoflin/vulnerability-management-project">
       <img src="https://img.shields.io/badge/Tenable-Enterprise%20Vulnerability%20Management-blue?logo=tenable" alt="Tenable" />
+      </a>
  | 
+      <a href="https://github.com/JustinSoflin/vulnerability-management-project">
       <img src="https://img.shields.io/badge/Azure%20VMs-Scan%20Engines%20%26%20Targets-0078D4?logo=microsoftazure&logoColor=white" alt="Azure VMs" />
+      </a>
     </td>
     <td>
-      <img width="400" alt="image" src="https://github.com/user-attachments/assets/7e799c68-9d31-4193-b7e2-e99b8d741fa2">
+<a href="https://github.com/JustinSoflin/vulnerability-management-project">
+  <img width="400" alt="Project Screenshot" src="https://github.com/user-attachments/assets/7e799c68-9d31-4193-b7e2-e99b8d741fa2" />
+</a>
     </td>
   </tr>
 </table>
@@ -60,12 +66,18 @@
     <td>
       <strong><a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">Threat Hunting Scenario (Tor Browser Usage)</a></strong><br><br>
       • Identified anomalous activity using KQL; flagged unauthorized use of <em>justins-tor-browser</em>.<br><Br>
+     <a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">
       <img src="https://img.shields.io/badge/EDR-Microsoft%20Defender%20for%20Endpoint-green?logo=microsoftdefender&logoColor=white" alt="Microsoft Defender for Endpoint" />
+     </a>
        | 
+     <a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">
       <img src="https://img.shields.io/badge/Tor%20Browser-Anonymity-purple?logo=torproject&logoColor=white" alt="Tor Browser" />
+     </a>
     </td>
     <td>
+     <a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">
       <img width="400" alt="Threat Hunting Screenshot" src="https://github.com/user-attachments/assets/e4f1b011-a4e1-4abd-8af4-645736945022">
+     </a>
     </td>
   </tr>
 </table>
@@ -75,12 +87,18 @@
     <td>
       <strong><a href="https://github.com/JustinSoflin/Log-Visualization-Maps">Log Visualization Maps</a></strong><br><br>
       • Investigated malicious IP traffic and visualized log data using KQL and Azure Workbook maps.<br><Br>
+     <a href="https://github.com/JustinSoflin/Log-Visualization-Maps">
       <img src="https://img.shields.io/badge/KQL-Kusto%20Query%20Language-blueviolet" alt="KQL" />
+     </a>
        | 
+     <a href="https://github.com/JustinSoflin/Log-Visualization-Maps">
       <img src="https://img.shields.io/badge/Azure%20Workbooks-Log%20Visualization-0089D6?logo=microsoftazure&logoColor=white" alt="Azure Workbooks" />
+     </a>
     </td>
     <td>
+      <a href="https://github.com/JustinSoflin/Log-Visualization-Maps">
       <img src="https://github.com/user-attachments/assets/f0b4a51c-58de-443f-9f00-2603c284af62" width="400" />
+      </a>
     </td>
   </tr>
 </table>
