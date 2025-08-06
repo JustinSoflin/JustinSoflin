@@ -53,7 +53,7 @@ It shows the malicious IP traffic visualized over time...
       <img src="https://img.shields.io/badge/BASH-Scripting-black?logo=gnubash" alt="BASH" />
     </td>
     <td>
-      <img src="" alt="Remediation Scripts" width="400" />
+      <img src="https://github.com/user-attachments/assets/c7ebbf0e-a3a8-4464-8976-23f26ef70cdd" alt="Remediation Scripts" width="400" />
     </td>
   </tr>
 </table>
@@ -79,8 +79,8 @@ It shows the malicious IP traffic visualized over time...
 <table>
   <tr>
     <td>
-      <strong><a href="https://github.com/JustinSoflin/Log-Visualization-Maps">Log Visualization Maps</a></strong><br>
-      • Investigated malicious IP traffic and visualized log data using KQL and Azure Workbook maps.<br>
+      <strong><a href="https://github.com/JustinSoflin/Log-Visualization-Maps">Log Visualization Maps</a></strong><br><br>
+      • Investigated malicious IP traffic and visualized log data using KQL and Azure Workbook maps.<br><Br>
       <img src="https://img.shields.io/badge/KQL-Kusto%20Query%20Language-blueviolet" alt="KQL" />
        | 
       <img src="https://img.shields.io/badge/Azure%20Workbooks-Log%20Visualization-0089D6?logo=microsoftazure&logoColor=white" alt="Azure Workbooks" />
