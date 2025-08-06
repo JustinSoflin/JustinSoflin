@@ -23,19 +23,16 @@ CISSP (2026) <br>
 
 ## Connect With Me
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<a href="https://instagram.com/justinsoflin" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-
-
-[twitter]: https://twitter.com/JustinSoflin
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/justinsoflin/
-[linkedin]: https://linkedin.com/in/justin-soflin
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+<p>
+  <a href="https://instagram.com/justinsoflin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-@justinsoflin-%23E4405F?style=social&logo=instagram" alt="Instagram" />
+  </a> <br>
+  
+  <a href="https://linkedin.com/in/justinsoflin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-@justinsoflin-%230077B5?style=social&logo=linkedin" alt="LinkedIn" />
+  </a><br>
+  
+  <a href="https://twitter.com/justinsoflin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-@justinsoflin-%231DA1F2?style=social&logo=twitter" alt="Twitter" />
+  </a><br>
+</p>
