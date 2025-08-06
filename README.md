@@ -7,7 +7,7 @@
 
 <br>
 
-### Certifications
+## Certifications
 
 - [x] [Google Cyber Security Certificate](https://www.coursera.org/account/accomplishments/specialization/3QXOOZZU1CT2) (Completed October 2024)
 - [ ] CompTIA Security+ (Expected 2026)
@@ -56,6 +56,8 @@
   </tr>
 </table>
 
+<Br>
+<br>
 
 ## Threat Hunting and Security Operations
 
@@ -63,7 +65,7 @@
   <tr>
     <td>
       <strong><a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">Threat Hunting Scenario (Tor Browser Usage)</a></strong><br><br>
-      • Identified anomalous activity using KQL; flagged unauthorized use of <em>justins-tor-browser</em>.<br><Br>
+      • Identified anomalous activity using KQL; flagged unauthorized use of <em>Tor browser</em> in business environment.<br><Br>
      <a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">
       <img src="https://img.shields.io/badge/EDR-Microsoft%20Defender%20for%20Endpoint-green?logo=microsoftdefender&logoColor=white" alt="Microsoft Defender for Endpoint" />
      </a>
@@ -106,11 +108,18 @@
 
 <hr/>
 
-### Tech Stack
+### Tools & Technologies
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Tenable-0033A0?style=flat&logo=tenable&logoColor=white" />
+<a href="https://www.linkedin.com/in/justin-soflin/">![Python](https://img.shields.io/badge/Python-Programming%20Language-3776AB?logo=python&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/justin-soflin/">![Microsoft Defender for Endpoint](https://img.shields.io/badge/MDE-Microsoft%20Defender%20for%20Endpoint-green?logo=microsoftdefender&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/justin-soflin/">![KQL](https://img.shields.io/badge/KQL-Kusto%20Query%20Language-blueviolet)</a>
+<a href="https://www.linkedin.com/in/justin-soflin/">![Azure VMs](https://img.shields.io/badge/Azure%20VMs-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/justin-soflin/">![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-blue?logo=powershell&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/justin-soflin/">![BASH](https://img.shields.io/badge/BASH-Scripting-black?logo=gnubash)</a>
+<a href="https://www.linkedin.com/in/justin-soflin/">![Azure Workbooks](https://img.shields.io/badge/Azure%20Workbooks-Visualization-0089D6?logo=microsoftazure&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/justin-soflin/">![Tenable](https://img.shields.io/badge/Tenable-Enterprise%20Vulnerability%20Management-blue?logo=tenable)</a>
+
+
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&speed=20&color=9370DB&center=true&vCenter=true&width=435&lines=Protecting+What's+Yours)
