@@ -43,11 +43,21 @@ It shows the malicious IP traffic visualized over time...
 
 
 
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)** <br>
-   • Automated mitigation steps using PowerShell and BASH scripts.
-  <br>
-  ![PowerShell](https://img.shields.io/badge/PowerShell-Remediation-blue?logo=powershell&logoColor=white)
-![BASH](https://img.shields.io/badge/BASH-Scripting-black?logo=gnubash)
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/joshcybertest/programmatic-vulnerability-remediations">Programmatic Vulnerability Remediations (PowerShell and BASH)</a></strong><br><br>
+      • Automated mitigation steps using PowerShell and BASH scripts.<br><Br>
+      <img src="https://img.shields.io/badge/PowerShell-Remediation-blue?logo=powershell&logoColor=white" alt="PowerShell" />
+       | 
+      <img src="https://img.shields.io/badge/BASH-Scripting-black?logo=gnubash" alt="BASH" />
+    </td>
+    <td>
+      <img src="" alt="Remediation Scripts" width="400" />
+    </td>
+  </tr>
+</table>
+
 
 ## Threat Hunting and Security Operations
 
@@ -56,7 +66,8 @@ It shows the malicious IP traffic visualized over time...
     <td>
       <strong><a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">Threat Hunting Scenario (Tor Browser Usage)</a></strong><br><br>
       • Identified anomalous activity using KQL; flagged unauthorized use of <em>justins-tor-browser</em>.<br><Br>
-      <img src="https://img.shields.io/badge/EDR-Microsoft%20Defender%20for%20Endpoint-green?logo=microsoftdefender&logoColor=white" alt="Microsoft Defender for Endpoint" /><Br>
+      <img src="https://img.shields.io/badge/EDR-Microsoft%20Defender%20for%20Endpoint-green?logo=microsoftdefender&logoColor=white" alt="Microsoft Defender for Endpoint" />
+       | 
       <img src="https://img.shields.io/badge/Tor%20Browser-Anonymity-purple?logo=torproject&logoColor=white" alt="Tor Browser" />
     </td>
     <td>
@@ -71,14 +82,14 @@ It shows the malicious IP traffic visualized over time...
       <strong><a href="https://github.com/JustinSoflin/Log-Visualization-Maps">Log Visualization Maps</a></strong><br>
       • Investigated malicious IP traffic and visualized log data using KQL and Azure Workbook maps.<br>
       <img src="https://img.shields.io/badge/KQL-Kusto%20Query%20Language-blueviolet" alt="KQL" />
+       | 
       <img src="https://img.shields.io/badge/Azure%20Workbooks-Log%20Visualization-0089D6?logo=microsoftazure&logoColor=white" alt="Azure Workbooks" />
     </td>
     <td>
-      <img src="path/to/screenshot.png" alt="Log Visualization Screenshot" width="300" />
+      <img src="https://github.com/user-attachments/assets/f0b4a51c-58de-443f-9f00-2603c284af62" width="400" />
     </td>
   </tr>
 </table>
-
 
 
 
