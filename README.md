@@ -1,5 +1,13 @@
 # <a href="https://www.linkedin.com/in/justin-soflin/">Justin Soflin</a>'s IT and Cybersecurity Project Portfolio
 
+Here is a screenshot of the Azure Workbook map:
+
+<img src="https://github.com/user-attachments/assets/89aba46e-4c79-4ebb-a83f-c6f8e10887fa" alt="Azure Workbook Map" width="450" />
+  
+
+It shows the malicious IP traffic visualized over time...
+
+
 <div align="center">
   <em>“An ounce of prevention is worth a pound of cure.”</em><br>
   <strong>— Benjamin Franklin</strong>, and also my cybersecurity philosophy
@@ -17,11 +25,23 @@
 
 ## Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/JustinSoflin/vulnerability-management-project)** <br>
-   • Designed and implemented a full vuln management cycle: policy → scanning → reporting.
-  <br>
-  ![Tenable](https://img.shields.io/badge/Tenable-Enterprise%20Vulnerability%20Management-blue?logo=tenable)
-![Azure VMs](https://img.shields.io/badge/Azure%20VMs-Scan%20Engines%20%26%20Targets-0078D4?logo=microsoftazure&logoColor=white)
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/JustinSoflin/vulnerability-management-project">Vulnerability Management Program Implementation</a></strong><br><br>
+      • Designed and implemented a full vuln management cycle: <br>
+          policy → scanning → remediation → repeat.<br><br>
+      <img src="https://img.shields.io/badge/Tenable-Enterprise%20Vulnerability%20Management-blue?logo=tenable" alt="Tenable" />
+ | 
+      <img src="https://img.shields.io/badge/Azure%20VMs-Scan%20Engines%20%26%20Targets-0078D4?logo=microsoftazure&logoColor=white" alt="Azure VMs" />
+    </td>
+    <td>
+      <img width="400" alt="image" src="https://github.com/user-attachments/assets/7e799c68-9d31-4193-b7e2-e99b8d741fa2">
+    </td>
+  </tr>
+</table>
+
+
 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)** <br>
    • Automated mitigation steps using PowerShell and BASH scripts.
@@ -31,18 +51,34 @@
 
 ## Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-)** <br>
-   • Identified anomalous activity using KQL; flagged unauthorized use of justins-tor-browser.
-  <br>
-  ![Microsoft Defender for Endpoint](https://img.shields.io/badge/EDR-Microsoft%20Defender%20for%20Endpoint-green?logo=microsoftdefender&logoColor=white)
-  ![Tor Browser](https://img.shields.io/badge/Tor%20Browser-Anonymity-purple?logo=torproject&logoColor=white)
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">Threat Hunting Scenario (Tor Browser Usage)</a></strong><br><br>
+      • Identified anomalous activity using KQL; flagged unauthorized use of <em>justins-tor-browser</em>.<br><Br>
+      <img src="https://img.shields.io/badge/EDR-Microsoft%20Defender%20for%20Endpoint-green?logo=microsoftdefender&logoColor=white" alt="Microsoft Defender for Endpoint" /><Br>
+      <img src="https://img.shields.io/badge/Tor%20Browser-Anonymity-purple?logo=torproject&logoColor=white" alt="Tor Browser" />
+    </td>
+    <td>
+      <img width="400" alt="Threat Hunting Screenshot" src="https://github.com/user-attachments/assets/e4f1b011-a4e1-4abd-8af4-645736945022">
+    </td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/JustinSoflin/Log-Visualization-Maps">Log Visualization Maps</a></strong><br>
+      • Investigated malicious IP traffic and visualized log data using KQL and Azure Workbook maps.<br>
+      <img src="https://img.shields.io/badge/KQL-Kusto%20Query%20Language-blueviolet" alt="KQL" />
+      <img src="https://img.shields.io/badge/Azure%20Workbooks-Log%20Visualization-0089D6?logo=microsoftazure&logoColor=white" alt="Azure Workbooks" />
+    </td>
+    <td>
+      <img src="path/to/screenshot.png" alt="Log Visualization Screenshot" width="300" />
+    </td>
+  </tr>
+</table>
 
-- **[Log Visualization Maps](https://github.com/JustinSoflin/Log-Visualization-Maps)** <br>
-   • Investigated malicious IP traffic and visualized log data using KQL and Azure Workbook maps.
-  <br>
-  ![KQL](https://img.shields.io/badge/KQL-Kusto%20Query%20Language-blueviolet)
-  ![Azure Workbooks](https://img.shields.io/badge/Azure%20Workbooks-Log%20Visualization-0089D6?logo=microsoftazure&logoColor=white)
 
 
 
