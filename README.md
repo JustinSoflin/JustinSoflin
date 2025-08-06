@@ -1,13 +1,5 @@
 # <a href="https://www.linkedin.com/in/justin-soflin/">Justin Soflin</a>'s IT and Cybersecurity Project Portfolio
 
-Here is a screenshot of the Azure Workbook map:
-
-<img src="https://github.com/user-attachments/assets/89aba46e-4c79-4ebb-a83f-c6f8e10887fa" alt="Azure Workbook Map" width="450" />
-  
-
-It shows the malicious IP traffic visualized over time...
-
-
 <div align="center">
   <em>“An ounce of prevention is worth a pound of cure.”</em><br>
   <strong>— Benjamin Franklin</strong>, and also my cybersecurity philosophy
