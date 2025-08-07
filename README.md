@@ -33,7 +33,7 @@
     </td>
     <td>
 <a href="https://github.com/JustinSoflin/vulnerability-management-project">
-  <img width="400" alt="Project Screenshot" src="https://github.com/user-attachments/assets/7e799c68-9d31-4193-b7e2-e99b8d741fa2" />
+  <img width="500" alt="Project Screenshot" src="https://github.com/user-attachments/assets/7e799c68-9d31-4193-b7e2-e99b8d741fa2" />
 </a>
     </td>
   </tr>
@@ -76,7 +76,7 @@
     </td>
     <td>
      <a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">
-      <img width="400" alt="Threat Hunting Screenshot" src="https://github.com/user-attachments/assets/e4f1b011-a4e1-4abd-8af4-645736945022">
+      <img width="600" alt="Threat Hunting Screenshot" src="https://github.com/user-attachments/assets/e4f1b011-a4e1-4abd-8af4-645736945022">
      </a>
     </td>
   </tr>
@@ -97,7 +97,7 @@
     </td>
     <td>
       <a href="https://github.com/JustinSoflin/Log-Visualization-Maps">
-      <img src="https://github.com/user-attachments/assets/f0b4a51c-58de-443f-9f00-2603c284af62" width="400" />
+      <img src="https://github.com/user-attachments/assets/f0b4a51c-58de-443f-9f00-2603c284af62" width="500" />
       </a>
     </td>
   </tr>
