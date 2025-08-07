@@ -15,7 +15,7 @@
 <br>
 
 
-# Vulnerability Management Projects
+# Featured Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/JustinSoflin/vulnerability-management-project)** <br>
    • Designed and implemented a full vulnerability management cycle: <br>
@@ -40,8 +40,6 @@
 
 <br>
 <br>
-
-# Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-)** <br>
    • Identified anomalous activity using KQL; flagged unauthorized use of justins-tor-browser.
