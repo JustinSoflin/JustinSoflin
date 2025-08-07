@@ -1,8 +1,8 @@
 # <a href="https://www.linkedin.com/in/justin-soflin/">Justin Soflin</a>'s IT and Cybersecurity Project Portfolio
 
 <div align="center">
-  <em>“An ounce of prevention is worth a pound of cure.”</em><br>
-  <strong>— Benjamin Franklin</strong>, and also my cybersecurity philosophy
+  <em><code>“An ounce of prevention is worth a pound of cure.”</code></em><br>
+  <strong>- Benjamin Franklin</strong>, and also my cybersecurity philosophy
 </div>
 
 <br>
@@ -17,108 +17,75 @@
 
 # Vulnerability Management Projects
 
-<table>
-  <tr>
-    <td>
-      <strong><a href="https://github.com/JustinSoflin/vulnerability-management-project">Vulnerability Management Program Implementation</a></strong><br><br>
-      • Designed and implemented a full vuln management cycle: <br>
-          policy → scanning → remediation → repeat.<br><br>
-      <a href="https://github.com/JustinSoflin/vulnerability-management-project">
-      <img src="https://img.shields.io/badge/Tenable-Enterprise%20Vulnerability%20Management-blue?logo=tenable" alt="Tenable" />
-      </a>
- &nbsp;&nbsp;
-      <a href="https://github.com/JustinSoflin/vulnerability-management-project">
-      <img src="https://img.shields.io/badge/Azure%20VMs-Scan%20Engines%20%26%20Targets-0078D4?logo=microsoftazure&logoColor=white" alt="Azure VMs" />
-      </a>
-    </td>
-    <td>
-<a href="https://github.com/JustinSoflin/vulnerability-management-project">
-  <img width="500" alt="Project Screenshot" src="https://github.com/user-attachments/assets/7e799c68-9d31-4193-b7e2-e99b8d741fa2" />
-</a>
-    </td>
-  </tr>
-</table>
+- **[Vulnerability Management Program Implementation](https://github.com/JustinSoflin/vulnerability-management-project)** <br>
+   • Designed and implemented a full vulnerability management cycle: <br>
+  &nbsp;&nbsp; scanning → remediating → maintenance
+  <Br>
+  <br>
+     <a href="https://github.com/JustinSoflin/vulnerability-management-project">
+  <img width="600" alt="Project Screenshot" src="https://github.com/user-attachments/assets/7e799c68-9d31-4193-b7e2-e99b8d741fa2" />
+</a><br>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`KQL` &nbsp; `Azure Virtual Machines` &nbsp; `Tenable`
 
+<br>
+<br>
 
-<table>
-  <tr>
-    <td>
-      <strong><a href="https://github.com/joshcybertest/programmatic-vulnerability-remediations">Programmatic Vulnerability Remediations (PowerShell and BASH)</a></strong><br><br>
-      • Automated mitigation steps using PowerShell and BASH scripts.<br><Br>
-      <img src="https://img.shields.io/badge/PowerShell-Remediation-blue?logo=powershell&logoColor=white" alt="PowerShell" />
-       &nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/BASH-Scripting-black?logo=gnubash" alt="BASH" />
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/c7ebbf0e-a3a8-4464-8976-23f26ef70cdd" alt="Remediation Scripts" width="400" />
-    </td>
-  </tr>
-</table>
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**<br>
+   • Automated mitigation steps using PowerShell and BASH scripts. <br>
+  <br>
+        <img src="https://github.com/user-attachments/assets/c7ebbf0e-a3a8-4464-8976-23f26ef70cdd" alt="Remediation Scripts" width="400" /> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Powershell` &nbsp;
+`Bash`
 
-<Br>
+<br>
 <br>
 
 # Threat Hunting and Security Operations
 
-<table>
-  <tr>
-    <td>
-      <strong><a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">Threat Hunting Scenario (Tor Browser Usage)</a></strong><br><br>
-      • Identified anomalous activity using KQL; flagged unauthorized use of <em>Tor browser</em> in business environment.<br><Br>
-     <a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">
-      <img src="https://img.shields.io/badge/EDR-Microsoft%20Defender%20for%20Endpoint-green?logo=microsoftdefender&logoColor=white" alt="Microsoft Defender for Endpoint" />
-     </a>
-       &nbsp;&nbsp;
-     <a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">
-      <img src="https://img.shields.io/badge/Tor%20Browser-Anonymity-purple?logo=torproject&logoColor=white" alt="Tor Browser" />
-     </a>
-    </td>
-    <td>
-     <a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">
-      <img width="600" alt="Threat Hunting Screenshot" src="https://github.com/user-attachments/assets/e4f1b011-a4e1-4abd-8af4-645736945022">
-     </a>
-    </td>
-  </tr>
-</table>
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-)** <br>
+   • Identified anomalous activity using KQL; flagged unauthorized use of justins-tor-browser.
+  <br><br>
+   <a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">
+      <img width="600" alt="Threat Hunting Screenshot" src="https://github.com/user-attachments/assets/e4f1b011-a4e1-4abd-8af4-645736945022"> </a><br>
+      &nbsp;&nbsp;&nbsp; `KQL` &nbsp; `MDE` &nbsp;
+  <br><br>
 
-<table>
-  <tr>
-    <td>
-      <strong><a href="https://github.com/JustinSoflin/Log-Visualization-Maps">Log Visualization Maps</a></strong><br><br>
-      • Investigated malicious IP traffic and visualized log data using KQL and Azure Workbook maps.<br><Br>
-     <a href="https://github.com/JustinSoflin/Log-Visualization-Maps">
-      <img src="https://img.shields.io/badge/KQL-Kusto%20Query%20Language-blueviolet" alt="KQL" />
-     </a>
-       &nbsp;&nbsp;
-     <a href="https://github.com/JustinSoflin/Log-Visualization-Maps">
-      <img src="https://img.shields.io/badge/Azure%20Workbooks-Log%20Visualization-0089D6?logo=microsoftazure&logoColor=white" alt="Azure Workbooks" />
-     </a>
-    </td>
-    <td>
-      <a href="https://github.com/JustinSoflin/Log-Visualization-Maps">
-      <img src="https://github.com/user-attachments/assets/f0b4a51c-58de-443f-9f00-2603c284af62" width="500" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
+  - **[Log Visualization Maps](https://github.com/JustinSoflin/Log-Visualization-Maps)** <br>
+   • Investigated malicious IP traffic and visualized log data using KQL and Azure Workbook maps.<br>
+   
+    <a href="https://github.com/JustinSoflin/Log-Visualization-Maps">
+      <img src="https://github.com/user-attachments/assets/f0b4a51c-58de-443f-9f00-2603c284af62" width="600" /> </a>
+&nbsp;&nbsp;&nbsp; `KQL` `Azure Workbooks`
+<br>
 
 <hr/>
 
 
 ### Tools & Technologies
 
-<a href="https://www.linkedin.com/in/justin-soflin/">![Python](https://img.shields.io/badge/Python-Programming%20Language-3776AB?logo=python&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/justin-soflin/">![Microsoft Defender for Endpoint](https://img.shields.io/badge/MDE-Microsoft%20Defender%20for%20Endpoint-green?logo=microsoftdefender&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/justin-soflin/">![KQL](https://img.shields.io/badge/KQL-Kusto%20Query%20Language-blueviolet)</a>
-<a href="https://www.linkedin.com/in/justin-soflin/">![Azure VMs](https://img.shields.io/badge/Azure%20VMs-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/justin-soflin/">![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-blue?logo=powershell&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/justin-soflin/">![BASH](https://img.shields.io/badge/BASH-Scripting-black?logo=gnubash)</a>
-<a href="https://www.linkedin.com/in/justin-soflin/">![Azure Workbooks](https://img.shields.io/badge/Azure%20Workbooks-Visualization-0089D6?logo=microsoftazure&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/justin-soflin/">![Tenable](https://img.shields.io/badge/Tenable-Enterprise%20Vulnerability%20Management-blue?logo=tenable)</a>
+`MDE (Microsoft Defender for Endpoint):` <br>
+Enterprise-grade endpoint detection and response (EDR) platform for identifying and investigating threats across devices.
 
+`Microsoft Azure:` <br>
+Cloud computing platform offering scalable infrastructure, services, and security tools for modern IT environments.
+
+`Tenable:` <br>
+Cloud-based vulnerability management tool used to scan, assess, and prioritize security risks across networks and assets.
+
+### Languages & Scripting
+
+`KQL (Kusto Query Language):` <br>
+Used to query and analyze log data in Microsoft security tools like Azure Sentinel and MDE.
+
+`PowerShell:` <br>
+Command-line shell and scripting language for automating tasks and managing Windows environments.
+
+`BASH:` <br>
+Unix-based shell used for scripting and command-line operations in Linux and macOS systems.
+
+`Python:` <br>
+Versatile programming language widely used for scripting, automation, and cybersecurity tooling.
 
 <hr/>
 
@@ -126,26 +93,17 @@
 ## Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/justinsoflin" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-@justinsoflin-%230077B5?style=social&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <br>
   
-  <a href="https://twitter.com/justinsoflin" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-@justinsoflin-%231DA1F2?style=social&logo=twitter" alt="Twitter" />
-  </a>
-  <br>
+ - **LinkedIn:**  <a href="https://linkedin.com/in/justinsoflin" target="_blank" rel="noopener noreferrer"> @JustinSoflin </a>
 
-   <a href="https://instagram.com/justinsoflin">
-  <img src="https://img.shields.io/badge/Instagram-@justinsoflin-%23E4405F?style=social&logo=instagram" alt="Instagram" />
-</a> 
-<br>
+ - **Twitter:**  <a href="https://twitter.com/justinsoflin" target="_blank" rel="noopener noreferrer">@JustinSoflin </a>
 
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+- **Instagram:** <a href="https://instagram.com/justinsoflin"> @JustinSoflin </a> 
 
-  
+- **GitHub:** <a href="https://github.com/justinsoflin"> @JustinSoflin </a> 
+
+- **Email:** <a href="mailto:youremail@example.com" target="_blank"> @--- </a>
+
 </p>
 
 <br>
