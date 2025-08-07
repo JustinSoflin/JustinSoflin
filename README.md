@@ -15,7 +15,7 @@
 <br>
 
 
-## Vulnerability Management Projects
+# Vulnerability Management Projects
 
 <table>
   <tr>
@@ -59,7 +59,7 @@
 <Br>
 <br>
 
-## Threat Hunting and Security Operations
+# Threat Hunting and Security Operations
 
 <table>
   <tr>
@@ -105,8 +105,8 @@
 
 
 
-
 <hr/>
+
 
 ### Tools & Technologies
 
@@ -120,9 +120,7 @@
 <a href="https://www.linkedin.com/in/justin-soflin/">![Tenable](https://img.shields.io/badge/Tenable-Enterprise%20Vulnerability%20Management-blue?logo=tenable)</a>
 
 
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&speed=20&color=9370DB&center=true&vCenter=true&width=435&lines=Protecting+What's+Yours)
+<hr/>
 
 
 ## Connect With Me
@@ -149,6 +147,10 @@
 
   
 </p>
+
+<br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&speed=20&color=9370DB&center=true&vCenter=true&width=435&lines=Protecting+What's+Yours)
 
 <br>
 
