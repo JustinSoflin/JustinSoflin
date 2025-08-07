@@ -113,3 +113,8 @@ Versatile programming language widely used for scripting, automation, and cybers
 <br>
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=justinsoflin)
+
+## Cybersecurity Roadmap
+
+
+
