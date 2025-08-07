@@ -51,7 +51,7 @@
       &nbsp;&nbsp;&nbsp; `KQL` &nbsp; `MDE` &nbsp;
   <br><br>
 
-  - **[Log Visualization Maps](https://github.com/JustinSoflin/Log-Visualization-Maps)** <br>
+- **[Log Visualization Maps](https://github.com/JustinSoflin/Log-Visualization-Maps)** <br>
    • Investigated malicious IP traffic and visualized log data using KQL and Azure Workbook maps.<br>
    
     <a href="https://github.com/JustinSoflin/Log-Visualization-Maps">
