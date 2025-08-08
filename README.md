@@ -20,7 +20,7 @@
 - **[Vulnerability Management Program Implementation](https://github.com/JustinSoflin/vulnerability-management-project)** <br>
    • Designed and implemented a full vulnerability management cycle: <br>
   &nbsp;&nbsp; scanning → remediating → maintenance<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`KQL` &nbsp; `Azure Virtual Machines` &nbsp; `Tenable` <Br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_`KQL`_ &nbsp; _`Azure Virtual Machines`_ &nbsp; _`Tenable`_ <Br>
   <br>
      <a href="https://github.com/JustinSoflin/vulnerability-management-project">
   <img width="600" alt="Project Screenshot" src="https://github.com/user-attachments/assets/7e799c68-9d31-4193-b7e2-e99b8d741fa2" />
@@ -31,7 +31,7 @@
 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**<br>
    • Automated mitigation steps using PowerShell and BASH scripts. <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Powershell` &nbsp; `Bash` <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _`Powershell`_ &nbsp; _`Bash`_ <br>
   <br>
         <img src="https://github.com/user-attachments/assets/c7ebbf0e-a3a8-4464-8976-23f26ef70cdd" alt="Remediation Scripts" width="400" /> <br>
 
@@ -40,7 +40,7 @@
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-)** <br>
    • Identified anomalous activity using KQL; flagged unauthorized use of justins-tor-browser. <br>
-    &nbsp;&nbsp;&nbsp; `KQL` &nbsp; `MDE` &nbsp;
+    &nbsp;&nbsp;&nbsp; _`KQL`_ &nbsp; _`MDE`_ &nbsp;
   <br><br>
    <a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">
       <img width="600" alt="Threat Hunting Screenshot" src="https://github.com/user-attachments/assets/e4f1b011-a4e1-4abd-8af4-645736945022"> </a><br>
@@ -49,7 +49,7 @@
 
 - **[Log Visualization Maps](https://github.com/JustinSoflin/Log-Visualization-Maps)** <br>
    • Investigated malicious IP traffic and visualized log data using KQL and Azure Workbook maps.<br>
-   &nbsp;&nbsp;&nbsp; `KQL` `Azure Workbooks`
+   &nbsp;&nbsp;&nbsp; _`KQL`_ &nbsp; _`Azure Workbooks`_
 <br>
    
 <a href="https://github.com/JustinSoflin/Log-Visualization-Maps">
@@ -62,27 +62,27 @@
 ### Tools & Technologies
 
 `MDE (Microsoft Defender for Endpoint):` <br>
-Enterprise-grade endpoint detection and response (EDR) platform for identifying and investigating threats across devices.
+_Enterprise-grade endpoint detection and response (EDR) platform for identifying and investigating threats across devices._
 
 `Microsoft Azure:` <br>
-Cloud computing platform offering scalable infrastructure, services, and security tools for modern IT environments.
+_Cloud computing platform offering scalable infrastructure, services, and security tools for modern IT environments._
 
 `Tenable:` <br>
-Cloud-based vulnerability management tool used to scan, assess, and prioritize security risks across networks and assets.
+_Cloud-based vulnerability management tool used to scan, assess, and prioritize security risks across networks and assets._
 
 ### Languages & Scripting
 
 `KQL (Kusto Query Language):` <br>
-Used to query and analyze log data in Microsoft security tools like Azure Sentinel and MDE.
+<small> _Used to query and analyze log data in Microsoft security tools like Azure Sentinel and MDE._ </small>
 
 `PowerShell:` <br>
-Command-line shell and scripting language for automating tasks and managing Windows environments.
+_Command-line shell and scripting language for automating tasks and managing Windows environments._
 
 `BASH:` <br>
-Unix-based shell used for scripting and command-line operations in Linux and macOS systems.
+_Unix-based shell used for scripting and command-line operations in Linux and macOS systems._
 
 `Python:` <br>
-Versatile programming language widely used for scripting, automation, and cybersecurity tooling.
+_Versatile programming language widely used for scripting, automation, and cybersecurity tooling._
 
 <hr/>
 
