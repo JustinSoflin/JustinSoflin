@@ -12,8 +12,8 @@
 - [x] [Google Cyber Security Certificate](https://www.coursera.org/account/accomplishments/specialization/3QXOOZZU1CT2) (Completed October 2024)
 - [ ] CompTIA Security+ (Expected 2026)
 - [ ] CISSP (Expected 2026)
-<br>
 
+<hr/>
 
 # Featured Projects
 
