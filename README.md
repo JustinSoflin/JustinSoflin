@@ -20,7 +20,7 @@
 - **[Vulnerability Management Program Implementation](https://github.com/JustinSoflin/vulnerability-management-project)** <br>
    • Designed and implemented a full vulnerability management cycle: <br>
   &nbsp;&nbsp; scanning → remediating → maintenance<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_`KQL`_ &nbsp; _`Azure Virtual Machines`_ &nbsp; _`Tenable`_ <Br>
+ <small> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_`KQL`_ &nbsp; _`Azure Virtual Machines`_ &nbsp; _`Tenable`_ </small> <Br>
   <br>
      <a href="https://github.com/JustinSoflin/vulnerability-management-project">
   <img width="600" alt="Project Screenshot" src="https://github.com/user-attachments/assets/7e799c68-9d31-4193-b7e2-e99b8d741fa2" />
