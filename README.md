@@ -113,8 +113,8 @@ Versatile programming language widely used for scripting, automation, and cybers
 
 ## Strategic priorities
 
-- [ ] 
-- [ ] 
+- [ ] CompTIA Security+ certification
+- [ ] CISSP certification
 - [ ] 
 - [ ] 
 
