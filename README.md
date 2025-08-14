@@ -99,7 +99,7 @@ _Versatile programming language widely used for scripting, automation, and cyber
 
 - **GitHub:** <a href="https://github.com/justinsoflin"> @JustinSoflin </a> 
 
-- **Email:** <a href="mailto:youremail@example.com" target="_blank"> @--- </a>
+- **Email:** <a href="mailto:justinsoflin@outlook.com" target="_blank"> justinsoflin@outlook.com </a>
 
 </p>
 
