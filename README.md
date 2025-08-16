@@ -7,6 +7,18 @@
 
 <br>
 
+<p align="center"> Table of Contents: 
+  <a href="#certifications">Certifications</a> •
+  <a href="#key-projects">Key Projects</a> •
+  <a href="#tools--technologies">Tools & Technologies</a> •
+  <a href="#languages--scripting">Languages & Scripting</a> •
+  <a href="#connect-with-me">Connect</a> •
+  <a href="#cyber-security-roadmap">Roadmap</a> •
+  <a href="#upcoming-projects">Upcoming Projects</a>
+</p>
+
+<br>
+
 ## Certifications
 
 - [x] [Google Cyber Security Certificate](https://www.coursera.org/account/accomplishments/specialization/3QXOOZZU1CT2) (Completed October 2024)
@@ -15,7 +27,7 @@
 
 <hr/>
 
-# Featured Projects
+# Key Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/JustinSoflin/vulnerability-management-project)** <br>
    • Designed and implemented a full vulnerability management cycle: <br>
@@ -111,10 +123,13 @@ _Versatile programming language widely used for scripting, automation, and cyber
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=justinsoflin)
 
-## Strategic priorities
+## Cyber Security Roadmap
 
 - [ ] CompTIA Security+ certification
 - [ ] CISSP certification
 - [ ] 
 - [ ] 
 
+## Upcoming Projects
+- [ ] Incident Response Scenario
+- [ ] Phishing Email Analysis
