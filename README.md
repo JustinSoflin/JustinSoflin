@@ -6,8 +6,9 @@
 </div>
 
 <br>
+<Br>
 
-<p align="center"> Table of Contents: 
+<p align="center"> 
   <a href="#certifications">Certifications</a> •
   <a href="#key-projects">Key Projects</a> •
   <a href="#tools--technologies">Tools & Technologies</a> •
