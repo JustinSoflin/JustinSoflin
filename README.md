@@ -42,15 +42,6 @@
 <br>
 <br>
 
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**<br>
-   • Automated mitigation steps using PowerShell and BASH scripts. <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _`Powershell`_ &nbsp; _`Bash`_ <br>
-  <br>
-        <img src="https://github.com/user-attachments/assets/c7ebbf0e-a3a8-4464-8976-23f26ef70cdd" alt="Remediation Scripts" width="400" /> <br>
-
-<br>
-<br>
-
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-)** <br>
    • Identified anomalous activity using KQL; flagged unauthorized use of justins-tor-browser. <br>
     &nbsp;&nbsp;&nbsp; _`KQL`_ &nbsp; _`MDE`_ &nbsp;
