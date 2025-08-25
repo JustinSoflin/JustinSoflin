@@ -23,7 +23,7 @@
 ## Certifications
 
 - [x] [Google Cyber Security Certificate](https://www.coursera.org/account/accomplishments/specialization/3QXOOZZU1CT2) (Completed October 2024)
-- [ ] CompTIA Security+ (Expected 2026)
+- [ ] CompTIA Security+ (Currently studying. Expected 2026)
 - [ ] CISSP (Expected 2026)
 
 <hr/>
@@ -61,6 +61,24 @@
 <br>
 
 <hr/>
+
+## Cybersecurity Roadmap  
+
+**Now**  
+- Preparing for **CompTIA Security+** certification  
+- Strengthening **Python** for automation and security scripting  
+- Practicing technical interview questions and case studies  
+- Gaining real-world experience as a **Cybersecurity Intern** at *LOG(N) Pacific*  
+- Pursuing an internal role with the company’s **I.T. Department**  
+- Expanding technical depth in:  
+  - **Cross-Site Scripting (XSS)**  
+  - **Injection Attacks**  
+
+---
+
+## Upcoming Projects  
+- **Incident Response Scenario** → Simulating a corporate network slowdown caused by a port scan, with detection and mitigation using PowerShell logging  
+- **Phishing Email Analysis** → Dissecting real-world phishing attempts to identify social engineering tactics, spoofing techniques, and malicious payloads  
 
 
 ### Tools & Technologies
@@ -114,22 +132,3 @@ _Versatile programming language widely used for scripting, automation, and cyber
 <br>
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=justinsoflin)
-
-
-## Cybersecurity Roadmap  
-
-**Now**  
-- Preparing for **CompTIA Security+** certification  
-- Strengthening **Python** for automation and security scripting  
-- Practicing technical interview questions and case studies  
-- Gaining real-world experience as a **Cybersecurity Intern** at *LOG(N) Pacific*  
-- Pursuing an internal role with the company’s **I.T. Department**  
-- Expanding technical depth in:  
-  - **Cross-Site Scripting (XSS)**  
-  - **Injection Attacks**  
-
----
-
-## Upcoming Projects  
-- **Incident Response Scenario** → Simulating a corporate network slowdown caused by a port scan, with detection and mitigation using PowerShell logging  
-- **Phishing Email Analysis** → Dissecting real-world phishing attempts to identify social engineering tactics, spoofing techniques, and malicious payloads  
