@@ -30,10 +30,10 @@
 
 # 2. Key Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/JustinSoflin/vulnerability-management-project)** <br>
-   • Designed and implemented a full vulnerability management cycle: <br>
-  &nbsp;&nbsp; scanning → remediating → maintenance<br>
- <small> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_`KQL`_ &nbsp; _`Azure Virtual Machines`_ &nbsp; _`Tenable`_ </small> <Br>
+- **[Vulnerability Management Program Implementation](https://github.com/JustinSoflin/vulnerability-management-project)**
+  - Designed and implemented a full vulnerability management cycle: <br>
+  - scanning → remediating → maintenance<br>
+  - _`KQL`_ &nbsp; _`Azure Virtual Machines`_ &nbsp; _`Tenable`_ <Br>
   <br>
      <a href="https://github.com/JustinSoflin/vulnerability-management-project">
   <img width="600" alt="Project Screenshot" src="https://github.com/user-attachments/assets/7e799c68-9d31-4193-b7e2-e99b8d741fa2" />
@@ -42,18 +42,18 @@
 <br>
 <br>
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-)** <br>
-   • Identified anomalous activity using KQL; flagged unauthorized use of justins-tor-browser. <br>
-    &nbsp;&nbsp;&nbsp; _`KQL`_ &nbsp; _`MDE`_ &nbsp;
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-)** 
+  - Identified anomalous activity using KQL; flagged unauthorized use of justins-tor-browser. <br>
+  - _`KQL`_ &nbsp; _`MDE`_ &nbsp;
   <br><br>
    <a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">
       <img width="600" alt="Threat Hunting Screenshot" src="https://github.com/user-attachments/assets/e4f1b011-a4e1-4abd-8af4-645736945022"> </a><br>
   
   <br><br>
 
-- **[Log Visualization Maps](https://github.com/JustinSoflin/Log-Visualization-Maps)** <br>
-   • Investigated malicious IP traffic and visualized log data using KQL and Azure Workbook maps.<br>
-   &nbsp;&nbsp;&nbsp; _`KQL`_ &nbsp; _`Azure Workbooks`_
+- **[Log Visualization Maps](https://github.com/JustinSoflin/Log-Visualization-Maps)** 
+  - Investigated malicious IP traffic and visualized log data using KQL and Azure Workbook maps.<br>
+  - _`KQL`_ &nbsp; _`Azure Workbooks`_
 <br>
    
 <a href="https://github.com/JustinSoflin/Log-Visualization-Maps">
