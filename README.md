@@ -12,10 +12,10 @@
   <a href="#certifications">Certifications</a> •
   <a href="#key-projects">Key Projects</a> •
   <a href="#tools--technologies">Tools & Technologies</a> •
-  <a href="#languages--scripting">Languages & Scripting</a> •
-  <a href="#connect-with-me">Connect</a> •
+  <a href="#languages--scripting">Languages & Scripting</a> • 
   <a href="#cybersecurity-roadmap">Cybersecurity Roadmap</a> •
-  <a href="#upcoming-projects">Upcoming Projects</a>
+  <a href="#upcoming-projects">Upcoming Projects</a> • 
+  <a href="#connect-with-me">Connect</a>
 </p>
 
 <br>
@@ -59,54 +59,48 @@
 <a href="https://github.com/JustinSoflin/Log-Visualization-Maps">
       <img src="https://github.com/user-attachments/assets/f0b4a51c-58de-443f-9f00-2603c284af62" width="600" /> </a>
 <br>
+<br>
 
 <hr/>
 
 ## Cybersecurity Roadmap  
 
-**Now**  
+**Currently:**  
 - Preparing for **CompTIA Security+** certification  
 - Strengthening **Python** for automation and security scripting  
-- Practicing technical interview questions and case studies  
+- Practicing technical interview questions  
 - Gaining real-world experience as a **Cybersecurity Intern** at *LOG(N) Pacific*  
-- Pursuing an internal role with the company’s **I.T. Department**  
+- Pursuing an internal role with my company’s **I.T. Department**  
 - Expanding technical depth in:  
   - **Cross-Site Scripting (XSS)**  
-  - **Injection Attacks**  
+  - **Injection Attacks**
+ 
+  <br> 
 
 ---
 
-## Upcoming Projects  
-- **Incident Response Scenario** → Simulating a corporate network slowdown caused by a port scan, with detection and mitigation using PowerShell logging  
-- **Phishing Email Analysis** → Dissecting real-world phishing attempts to identify social engineering tactics, spoofing techniques, and malicious payloads  
+<br> 
 
+## Upcoming Projects  
+- **Incident Response Scenario**
+   -  Simulating a corporate network slowdown caused by a port scan, with detection and mitigation using PowerShell logging
+     <br>
+- **Phishing Email Analysis**
+   -  Dissecting real-world phishing attempts to strengthen identification and response skills
+
+<br>
 
 ### Tools & Technologies
 
-`MDE (Microsoft Defender for Endpoint):` <br>
-_Enterprise-grade endpoint detection and response (EDR) platform for identifying and investigating threats across devices._
-
-`Microsoft Azure:` <br>
-_Cloud computing platform offering scalable infrastructure, services, and security tools for modern IT environments._
-
-`Tenable:` <br>
-_Cloud-based vulnerability management tool used to scan, assess, and prioritize security risks across networks and assets._
+_`MDE (Microsoft Defender for Endpoint)`_ • _`Microsoft Azure`_ • _`Tenable`_
 
 ### Languages & Scripting
 
-`KQL (Kusto Query Language):` <br>
-<small> _Used to query and analyze log data in Microsoft security tools like Azure Sentinel and MDE._ </small>
-
-`PowerShell:` <br>
-_Command-line shell and scripting language for automating tasks and managing Windows environments._
-
-`BASH:` <br>
-_Unix-based shell used for scripting and command-line operations in Linux and macOS systems._
-
-`Python:` <br>
-_Versatile programming language widely used for scripting, automation, and cybersecurity tooling._
+_`KQL (Kusto Query Language)`_ • _`PowerShell`_ • _`BASH`_ • _`Python`_
 
 <hr/>
+
+<br>
 
 
 ## Connect With Me
@@ -114,13 +108,9 @@ _Versatile programming language widely used for scripting, automation, and cyber
 <p>
   
 - **LinkedIn:**  <a href="https://linkedin.com/in/justinsoflin" target="_blank" rel="noopener noreferrer"> @JustinSoflin </a>
-
 - **Twitter:**  <a href="https://twitter.com/justinsoflin" target="_blank" rel="noopener noreferrer">@JustinSoflin </a>
-
-- **Instagram:** <a href="https://instagram.com/justinsoflin"> @JustinSoflin </a> 
-
-- **GitHub:** <a href="https://github.com/justinsoflin"> @JustinSoflin </a> 
-
+- **Instagram:** <a href="https://instagram.com/justinsoflin"> @JustinSoflin </a>
+- **GitHub:** <a href="https://github.com/justinsoflin"> @JustinSoflin </a>
 - **Email:** <a href="mailto:justinsoflin@outlook.com" target="_blank"> justinsoflin@outlook.com </a>
 
 </p>
