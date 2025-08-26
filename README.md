@@ -20,7 +20,7 @@
 
 <br>
 
-## Certifications
+## 1. Certifications
 
 - [x] [Google Cyber Security Certificate](https://www.coursera.org/account/accomplishments/specialization/3QXOOZZU1CT2) (Completed October 2024)
 - [ ] CompTIA Security+ (Currently studying. Expected 2026)
@@ -28,7 +28,7 @@
 
 <hr/>
 
-# Key Projects
+# 2. Key Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/JustinSoflin/vulnerability-management-project)** <br>
    • Designed and implemented a full vulnerability management cycle: <br>
@@ -63,7 +63,7 @@
 
 <hr/>
 
-## Cybersecurity Roadmap  
+## 3. Cybersecurity Roadmap  
 
 **Currently:**  
 - Preparing for **CompTIA Security+** certification  
@@ -81,7 +81,7 @@
 
 <br> 
 
-## Upcoming Projects  
+## 4. Upcoming Projects  
 - **Incident Response Scenario**
    -  Simulating a corporate network slowdown caused by a port scan, with detection and mitigation using PowerShell logging
      <br>
@@ -90,11 +90,11 @@
 
 <br>
 
-### Tools & Technologies
+### 5. Tools & Technologies
 
 _`MDE (Microsoft Defender for Endpoint)`_ • _`Microsoft Azure`_ • _`Tenable`_
 
-### Languages & Scripting
+### 6. Languages & Scripting
 
 _`KQL (Kusto Query Language)`_ • _`PowerShell`_ • _`BASH`_ • _`Python`_
 
@@ -103,7 +103,7 @@ _`KQL (Kusto Query Language)`_ • _`PowerShell`_ • _`BASH`_ • _`Python`_
 <br>
 
 
-## Connect With Me
+## 7. Connect With Me
 
 <p>
   
