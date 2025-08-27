@@ -24,7 +24,6 @@
 
 - [x] [Google Cyber Security Certificate](https://www.coursera.org/account/accomplishments/specialization/3QXOOZZU1CT2) (Completed October 2024)
 - [ ] CompTIA Security+ (Currently studying. Expected 2026)
-- [ ] CISSP (Expected 2026)
 
 <hr/>
 
@@ -65,7 +64,7 @@
 
 ## 3. Cybersecurity Roadmap  
 
-**Currently:**  
+**Now:**  
 - Preparing for **CompTIA Security+** certification  
 - Strengthening **Python** for automation and security scripting  
 - Practicing technical interview questions  
@@ -74,7 +73,12 @@
 - Expanding technical depth in:  
   - **Cross-Site Scripting (XSS)**  
   - **Injection Attacks**
- 
+
+<br>
+
+ **Future:** <br>
+- CISSP Certification
+
   <br> 
 
 ---
