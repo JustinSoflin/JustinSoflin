@@ -43,7 +43,7 @@
 <br>
 
 - ### **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-)** 
-  - Identified anomalous activity using KQL; flagged unauthorized use of justins-tor-browser. <br>
+  - Identified anomalous activity using KQL; flagged unauthorized use of Tor browser. <br>
   - Tools Utilized: _`KQL`_ &nbsp; _`MDE`_ &nbsp;
   <br><br>
    <a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">
@@ -93,6 +93,8 @@
 ### 5. Tools & Technologies
 
 _`MDE (Microsoft Defender for Endpoint)`_ • _`Microsoft Azure`_ • _`Tenable`_
+
+<br>
 
 ### 6. Languages & Scripting
 
