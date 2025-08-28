@@ -77,6 +77,7 @@
 <br>
 
  **Future:** <br>
+- Western Governors University (WGU) Online Cybersecurity Course
 - CISSP Certification
 
   <br> 
