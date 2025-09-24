@@ -60,6 +60,15 @@
 <br>
 <br>
 
+- ### [Tableau Videogame Sales and Airbnb Dashboard Creation](https://github.com/JustinSoflin/Introduction-to-Tableau)
+  - Transformed raw datasets into interactive Tableau dashboards, revealing trends in Airbnb revenue and video game sales for data-driven insights.<Br>
+  - Tools Utilized: _`Tableau Public`_ &nbsp; _`Sample Data Sets`_
+<Br>
+
+<a href="https://github.com/JustinSoflin/Introduction-to-Tableau">
+<img width="1124" height="635" alt="image" src="https://github.com/user-attachments/assets/507d0c44-c832-4304-b467-1a3996c88607" width="800" /> </a>
+
+
 <hr/>
 
 ## 3. Cybersecurity Roadmap  
@@ -69,7 +78,7 @@
 - Strengthening **Python** for automation and security scripting  
 - Practicing technical interview questions  
 - Gaining real-world experience as a **Cybersecurity Intern** at *LOG(N) Pacific*  
-- Pursuing an internal role with my company’s **I.T. Department**  
+- Pursuing an internal role with my company’s **Data Analyst** Team  
 - Expanding technical depth in:  
   - **Cross-Site Scripting (XSS)**  
   - **Injection Attacks**
