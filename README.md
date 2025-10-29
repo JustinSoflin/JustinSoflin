@@ -11,6 +11,7 @@
 <p align="center"> 
   <a href="#certifications">Certifications</a> •
   <a href="#key-projects">Key Projects</a> •
+  <a href="#additional-projects"> Additional Projects •
   <a href="#tools--technologies">Tools & Technologies</a> •
   <a href="#languages--scripting">Languages & Scripting</a> • 
   <a href="#cybersecurity-roadmap">Cybersecurity Roadmap</a> •
@@ -71,7 +72,16 @@
 
 <hr/>
 
-## 3. Cybersecurity Roadmap  
+## 3. Additional Projects
+
+- ### **[Data Analysis in Excel](https://github.com/JustinSoflin/Data-Analysis-Project-in-Excel)**
+  - Transformed raw datasets into clean, analyzable data; performed descriptive statistics, PivotTable analysis, and interactive dashboard creation. <br>
+  - Tools Utilized: _`Microsoft Excel`_ &nbsp; _`PivotTables`_ &nbsp; _`Slicers`_ &nbsp; _`Descriptive Statistics`_ &nbsp; _`Charts & Dashboards`_ &nbsp; _`Sample Dataset`_  
+<br>
+
+<hr/>
+
+## 4. Cybersecurity Roadmap  
 
 **Now:**  
 - Preparing for **CompTIA Security+** certification  
@@ -95,7 +105,7 @@
 
 <br> 
 
-## 4. Upcoming Projects  
+## 5. Upcoming Projects  
 - **Incident Response Scenario**
    -  Simulating a corporate network slowdown caused by a port scan, with detection and mitigation using PowerShell logging
      <br>
@@ -104,13 +114,13 @@
 
 <br>
 
-### 5. Tools & Technologies
+### 6. Tools & Technologies
 
 _`MDE (Microsoft Defender for Endpoint)`_ • _`Microsoft Azure`_ • _`Tenable`_
 
 <br>
 
-### 6. Languages & Scripting
+### 7. Languages & Scripting
 
 _`KQL (Kusto Query Language)`_ • _`PowerShell`_ • _`BASH`_ • _`Python`_
 
@@ -119,7 +129,7 @@ _`KQL (Kusto Query Language)`_ • _`PowerShell`_ • _`BASH`_ • _`Python`_
 <br>
 
 
-## 7. Connect With Me
+## 8. Connect With Me
 
 <p>
   
