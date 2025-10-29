@@ -62,7 +62,7 @@
 <br>
 <br>
 
-- ### [Tableau Videogame Sales and Airbnb Dashboard Creation](https://github.com/JustinSoflin/Introduction-to-Tableau)
+- ### [Tableau Interactive Data Dashboards](https://github.com/JustinSoflin/Introduction-to-Tableau)
   - Transformed raw datasets into interactive Tableau dashboards, revealing trends in Airbnb revenue and video game sales for data-driven insights.<Br>
   - Tools Utilized: _`Tableau Public`_ &nbsp; _`Sample Data Sets`_
 <Br>
