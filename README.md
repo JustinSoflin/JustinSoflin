@@ -8,16 +8,18 @@
 <br>
 <Br>
 
-<p align="center"> 
-  <a href="#certifications">Certifications</a> •
-  <a href="#key-projects">Key Projects</a> •
-  <a href="#additional-projects">Additional Projects</a> •
-  <a href="#tools--technologies">Tools & Technologies</a> •
-  <a href="#languages--scripting">Languages & Scripting</a> • 
-  <a href="#cybersecurity-roadmap">Cybersecurity Roadmap</a> •
-  <a href="#upcoming-projects">Upcoming Projects</a> • 
-  <a href="#connect-with-me">Connect</a>
+<p align="center">
+<span>[Certifications](#1-certifications)</span> •
+<span>[Key Projects](#2-key-projects)</span> •
+<span>[Additional Projects](#3-additional-projects)</span> •
+<span>[Cybersecurity Roadmap](#4-cybersecurity-roadmap)</span> •
+<span>[Upcoming Projects](#5-upcoming-projects)</span> •
+<span>[Tools & Technologies](#6-tools--technologies)</span> •
+<span>[Languages & Scripting](#7-languages--scripting)</span> •
+<span>[Connect With Me](#8-connect-with-me)</span>
 </p>
+
+
 
 
 <br>
