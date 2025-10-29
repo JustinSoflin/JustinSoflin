@@ -8,7 +8,6 @@
 <br>
 <Br>
 
-<p align="center">
 <span>[Certifications](#1-certifications)</span> •
 <span>[Key Projects](#2-key-projects)</span> •
 <span>[Additional Projects](#3-additional-projects)</span> •
@@ -17,7 +16,6 @@
 <span>[Tools & Technologies](#6-tools--technologies)</span> •
 <span>[Languages & Scripting](#7-languages--scripting)</span> •
 <span>[Connect With Me](#8-connect-with-me)</span>
-</p>
 
 
 
