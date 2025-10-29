@@ -11,7 +11,7 @@
 <p align="center"> 
   <a href="#certifications">Certifications</a> •
   <a href="#key-projects">Key Projects</a> •
-  <a href="#additional-projects"> Additional Projects •
+  <a href="#additional-projects"> Additional Projects</a> •
   <a href="#tools--technologies">Tools & Technologies</a> •
   <a href="#languages--scripting">Languages & Scripting</a> • 
   <a href="#cybersecurity-roadmap">Cybersecurity Roadmap</a> •
