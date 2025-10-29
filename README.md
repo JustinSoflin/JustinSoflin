@@ -117,13 +117,13 @@
 
 ### 6. Tools & Technologies
 
-_`MDE (Microsoft Defender for Endpoint)`_ • _`Microsoft Azure`_ • _`Tenable`_
+_`MDE (Microsoft Defender for Endpoint)`_ • _`Microsoft Azure`_ • _`Tenable`_ _`Excel`_ • _`Tableau`_
 
 <br>
 
 ### 7. Languages & Scripting
 
-_`KQL (Kusto Query Language)`_ • _`PowerShell`_ • _`BASH`_ • _`Python`_
+_`KQL (Kusto Query Language)`_ • _`SQL (Structured Query Language)`_ • _`PowerShell`_ • _`BASH`_ • _`Python`_
 
 <hr/>
 
