@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/justin-soflin/">Justin Soflin</a>'s IT and Cybersecurity Project Portfolio
+# <a href="https://www.linkedin.com/in/justin-soflin/">Justin Soflin</a>'s Data Analyst and Cybersecurity Project Portfolio
 
 <div align="center">
   <em><code>“An ounce of prevention is worth a pound of cure.”</code></em><br>
