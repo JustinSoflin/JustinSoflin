@@ -78,7 +78,6 @@
 - ### **[Data Analysis in Excel](https://github.com/JustinSoflin/Data-Analysis-Project-in-Excel)**
   - Transformed raw datasets into clean, analyzable data; performed descriptive statistics, PivotTable analysis, and interactive dashboard creation. <br>
   - Tools Utilized: _`Microsoft Excel`_ &nbsp; _`PivotTables`_ &nbsp; _`Slicers`_ &nbsp; _`Descriptive Statistics`_ &nbsp; _`Charts & Dashboards`_ &nbsp; _`Sample Dataset`_  
-<br>
 
 <hr/>
 
@@ -111,53 +110,21 @@
    -  Simulating a corporate network slowdown caused by a port scan, with detection and mitigation using PowerShell logging
      <br>
 - **Phishing Email Analysis**
-   -  Dissecting real-world phishing attempts to strengthen identification and response skills  
-<br>
+   -  Dissecting real-world phishing attempts to strengthen identification and response skills 
 
 ---
 
-<br>
-
 ### 6. Tools & Technologies
 
-> `MDE (Microsoft Defender for Endpoint)`
-> - _Endpoint Detection & Response (EDR) platform used to identify, isolate, and remediate security threats in real time._
-
-> `Microsoft Azure`
-> - _Cloud computing environment for managing virtual machines, network security groups (NSGs), and integrating with Microsoft Sentinel for security monitoring._
-
-> `Tenable`
-> - _Vulnerability management platform used to scan assets, assess risk exposure, and track remediation progress across Windows and Linux environments._
-
-> `Excel`
-> - _Used for analyzing vulnerability and operational data, building reports, and visualizing remediation or performance trends._
-
-> `Tableau`
-> - _Data visualization platform for creating interactive dashboards to communicate security metrics and detect trends in real time._
-
+_`MDE (Microsoft Defender for Endpoint)`_ • _`Microsoft Azure`_ • _`Tenable`_ _`Excel`_ • _`Tableau`_
 
 <br>
 
 ### 7. Languages & Scripting
 
-> `KQL (Kusto Query Language)`
-> - _Used in Microsoft Sentinel and MDE for querying logs, detecting anomalies, and building custom detection rules._
-
-> `SQL (Structured Query Language)`
->  - _For structured data analysis and querying relational databases during investigations or asset tracking._
-
-> `PowerShell`
-> - _Automates audits, vulnerability remediations, and secure configurations across Windows systems._
-
-> `BASH`
-> - _Enables automation, log parsing, and configuration management in Linux-based environments._
-
-> `Python`
-> - _Used for automation, data analysis, and developing custom security tools or scripts._
+_`KQL (Kusto Query Language)`_ • _`SQL (Structured Query Language)`_ • _`PowerShell`_ • _`BASH`_ • _`Python`_
 
 <hr/>
-
-<br>
 
 ## 8. Connect With Me
 
