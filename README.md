@@ -29,7 +29,7 @@
 
 <hr/>
 
-# 2. Key Projects
+## 2. Key Projects
 
 - ### **[Vulnerability Management Program Implementation](https://github.com/JustinSoflin/vulnerability-management-project)**
   - Designed and implemented a full vulnerability management cycle: <br>
