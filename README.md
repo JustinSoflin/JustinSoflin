@@ -24,7 +24,7 @@
 
 ## 1. Certifications
 
-- [x] [Google Cyber Security Certificate](https://www.coursera.org/account/accomplishments/specialization/3QXOOZZU1CT2) (Completed October 2024)
+- [x] [Google Cyber Security Certificate](https://www.coursera.org/account/accomplishments/specialization/3QXOOZZU1CT2) (Completed)
 - [ ] CompTIA Security+ (Currently studying. Expected 2026)
 
 <hr/>
@@ -111,24 +111,53 @@
    -  Simulating a corporate network slowdown caused by a port scan, with detection and mitigation using PowerShell logging
      <br>
 - **Phishing Email Analysis**
-   -  Dissecting real-world phishing attempts to strengthen identification and response skills
+   -  Dissecting real-world phishing attempts to strengthen identification and response skills  
+<br>
+
+---
 
 <br>
 
 ### 6. Tools & Technologies
 
-_`MDE (Microsoft Defender for Endpoint)`_ • _`Microsoft Azure`_ • _`Tenable`_ _`Excel`_ • _`Tableau`_
+> `MDE (Microsoft Defender for Endpoint)`
+> - _Endpoint Detection & Response (EDR) platform used to identify, isolate, and remediate security threats in real time._
+
+> `Microsoft Azure`
+> - _Cloud computing environment for managing virtual machines, network security groups (NSGs), and integrating with Microsoft Sentinel for security monitoring._
+
+> `Tenable`
+> - _Vulnerability management platform used to scan assets, assess risk exposure, and track remediation progress across Windows and Linux environments._
+
+> `Excel`
+> - _Used for analyzing vulnerability and operational data, building reports, and visualizing remediation or performance trends._
+
+> `Tableau`
+> - _Data visualization platform for creating interactive dashboards to communicate security metrics and detect trends in real time._
+
 
 <br>
 
 ### 7. Languages & Scripting
 
-_`KQL (Kusto Query Language)`_ • _`SQL (Structured Query Language)`_ • _`PowerShell`_ • _`BASH`_ • _`Python`_
+> `KQL (Kusto Query Language)`
+> - _Used in Microsoft Sentinel and MDE for querying logs, detecting anomalies, and building custom detection rules._
+
+> `SQL (Structured Query Language)`
+>  - _For structured data analysis and querying relational databases during investigations or asset tracking._
+
+> `PowerShell`
+> - _Automates audits, vulnerability remediations, and secure configurations across Windows systems._
+
+> `BASH`
+> - _Enables automation, log parsing, and configuration management in Linux-based environments._
+
+> `Python`
+> - _Used for automation, data analysis, and developing custom security tools or scripts._
 
 <hr/>
 
 <br>
-
 
 ## 8. Connect With Me
 
