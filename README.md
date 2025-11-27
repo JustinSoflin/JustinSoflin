@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/justin-soflin/">Justin Soflin</a>'s Data Analyst and Cybersecurity Project Portfolio
+# <a href="https://www.linkedin.com/in/justin-soflin/">Justin Soflin</a>'s I.T. and Cybersecurity Project Portfolio
 
 <div align="center">
   <em><code>“An ounce of prevention is worth a pound of cure.”</code></em><br>
@@ -88,7 +88,6 @@
 - Strengthening **Python** for automation and security scripting  
 - Practicing technical interview questions  
 - Gaining real-world experience as a **Cybersecurity Intern** at *LOG(N) Pacific*  
-- Pursuing an internal role with my company’s **Data Analyst** Team  
 - Expanding technical depth in:  
   - **Cross-Site Scripting (XSS)**  
   - **Injection Attacks**
