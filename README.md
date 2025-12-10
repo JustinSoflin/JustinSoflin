@@ -13,8 +13,7 @@
 <span>[Additional Projects](#3-additional-projects)</span> •
 <span>[Cybersecurity Roadmap](#4-cybersecurity-roadmap)</span> •
 <span>[Upcoming Projects](#5-upcoming-projects)</span> •
-<span>[Tools & Technologies](#6-tools--technologies)</span> •
-<span>[Languages & Scripting](#7-languages--scripting)</span> •
+<span>[Tools & Languages](#6-tools--technologies)</span> •
 <span>[Connect With Me](#8-connect-with-me)</span>
 
 
