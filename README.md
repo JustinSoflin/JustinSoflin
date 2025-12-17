@@ -42,7 +42,7 @@
 <br>
 <br>
 
-- ### **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-)** 
+- ### **[Threat Hunt Lab: Tor Browser Usage](https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-)** 
   - Identified anomalous activity using KQL; flagged unauthorized use of Tor browser. <br>
   - Tools Utilized: _`KQL`_ &nbsp; _`MDE`_ &nbsp;
   <br><br>
@@ -78,6 +78,9 @@
   - Transformed raw datasets into clean, analyzable data; performed descriptive statistics, PivotTable analysis, and interactive dashboard creation. <br>
   - Tools Utilized: _`Microsoft Excel`_ &nbsp; _`PivotTables`_ &nbsp; _`Slicers`_ &nbsp; _`Descriptive Statistics`_ &nbsp; _`Charts & Dashboards`_ &nbsp; _`Sample Dataset`_  
 
+- ### [Threat Hunt Lab: "IT Support" Recon Simulation](https://github.com/JustinSoflin/IT-Support-Recon-Simulation)
+   - Investigated simulated “IT support” request. Uncovered staged reconnaissance, deception, egress testing, and persistence techniques using Azure telemetry.
+   - Tools Utilized: _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp; _`KQL`_ &nbsp;
 <hr/>
 
 ## 4. Cybersecurity Roadmap  
