@@ -42,13 +42,12 @@
 <br>
 <br>
 
-- ### **[Threat Hunt Lab: Tor Browser Usage](https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-)** 
-  - Identified anomalous activity using KQL; flagged unauthorized use of Tor browser. <br>
-  - Tools Utilized: _`KQL`_ &nbsp; _`MDE`_ &nbsp;
+- ### [Threat Hunt Lab: "IT Support" Recon Simulation](https://github.com/JustinSoflin/IT-Support-Recon-Simulation)
+   - Investigated simulated “IT support” request. Uncovered staged reconnaissance, deception, egress testing, and persistence techniques using Azure telemetry.
+   - Tools Utilized: _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp; _`KQL`_ &nbsp;
   <br><br>
-   <a href="https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-">
-      <img width="600" alt="Threat Hunting Screenshot" src="https://github.com/user-attachments/assets/e4f1b011-a4e1-4abd-8af4-645736945022"> </a><br>
-  
+   <a href="https://github.com/JustinSoflin/IT-Support-Recon-Simulation">
+      <img width="800" alt="Threat Hunting Screenshot" src="https://github.com/user-attachments/assets/28cd6b34-ef1b-4e6c-a26f-b916e831004d"> </a><br>
   <br><br>
 
 - ### **[Log Visualization Maps](https://github.com/JustinSoflin/Log-Visualization-Maps)** 
@@ -78,9 +77,10 @@
   - Transformed raw datasets into clean, analyzable data; performed descriptive statistics, PivotTable analysis, and interactive dashboard creation. <br>
   - Tools Utilized: _`Microsoft Excel`_ &nbsp; _`PivotTables`_ &nbsp; _`Slicers`_ &nbsp; _`Descriptive Statistics`_ &nbsp; _`Charts & Dashboards`_ &nbsp; _`Sample Dataset`_  
 
-- ### [Threat Hunt Lab: "IT Support" Recon Simulation](https://github.com/JustinSoflin/IT-Support-Recon-Simulation)
-   - Investigated simulated “IT support” request. Uncovered staged reconnaissance, deception, egress testing, and persistence techniques using Azure telemetry.
-   - Tools Utilized: _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp; _`KQL`_ &nbsp;
+- ### **[Threat Hunt Lab: Tor Browser Usage](https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-)** 
+  - Identified anomalous activity using KQL. Flagged unauthorized use of Tor browser in company environment. <br>
+  - Tools Utilized: _`KQL`_ &nbsp; _`MDE`_ &nbsp; _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp;
+
 <hr/>
 
 ## 4. Cybersecurity Roadmap  
