@@ -31,7 +31,7 @@
 ## 2. Key Projects
 
 - ### **[Vulnerability Management Program Implementation](https://github.com/JustinSoflin/vulnerability-management-project)**
-  - Designed and implemented a full vulnerability management cycle: <br>
+  - Designed and implemented a full vulnerability management cycle from start to finish: <br>
   - scanning → remediating → maintenance<br>
   - Tools Utilized: _`KQL`_ &nbsp; _`Azure Virtual Machines`_ &nbsp; _`Tenable`_ <Br>
   <br>
@@ -43,7 +43,8 @@
 <br>
 
 - ### [Threat Hunt Lab: "IT Support" Recon Simulation](https://github.com/JustinSoflin/IT-Support-Recon-Simulation)
-   - Investigated simulated “IT support” request. Uncovered staged reconnaissance, deception, egress testing, and persistence techniques using Azure telemetry.
+   - Investigated simulated “IT support” request.
+   - Uncovered staged reconnaissance, deception, egress testing, and persistence techniques using Azure telemetry.
    - Tools Utilized: _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp; _`KQL`_ &nbsp;
   <br><br>
    <a href="https://github.com/JustinSoflin/IT-Support-Recon-Simulation">
