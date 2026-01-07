@@ -83,8 +83,8 @@
   - Tools Utilized: _`KQL`_ &nbsp; _`MDE`_ &nbsp; _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp;
  
  - ### **[Non-Malicious Powershell Script Crash](https://github.com/JustinSoflin/non-malicious-powershell-script-crash)**
-  - Investigated a SYSTEM-level PowerShell script crash and how an unhandled exception triggered platform-driven recovery processes without any malicious activity. <br>
-  - Tools Utilized: _`KQL`_ &nbsp; _`MDE`_ &nbsp; _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp;
+   - Investigated a SYSTEM-level PowerShell script crash and how an unhandled exception triggered platform-driven recovery processes without any malicious activity. <br>
+   - Tools Utilized: _`KQL`_ &nbsp; _`MDE`_ &nbsp; _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp;
 <hr/>
 
 ## 4. Cybersecurity Roadmap  
