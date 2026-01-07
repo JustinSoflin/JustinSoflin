@@ -121,9 +121,7 @@
 
 ### 6. Tools & Technologies
 
-_`MDE (Microsoft Defender for Endpoint)`_ • _`Microsoft Azure`_ • _`Tenable`_ _`Excel`_ • _`Tableau`_
-
-<br>
+_`MDE (Microsoft Defender for Endpoint)`_ • _`Microsoft Azure`_ • _`Tenable`_ • _`Excel`_ • _`Tableau`_
 
 ### 7. Languages & Scripting
 
