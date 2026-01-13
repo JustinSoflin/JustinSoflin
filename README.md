@@ -42,13 +42,13 @@
 <br>
 <br>
 
-- ### [Threat Hunt Lab: "IT Support" Recon Simulation](https://github.com/JustinSoflin/IT-Support-Recon-Simulation)
-   - Investigated simulated “IT support” request.
-   - Uncovered staged reconnaissance, deception, egress testing, and persistence techniques using Azure telemetry.
-   - Tools Utilized: _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp; _`KQL`_ &nbsp;
-  <br><br>
-   <a href="https://github.com/JustinSoflin/IT-Support-Recon-Simulation">
-      <img width="800" alt="Threat Hunting Screenshot" src="https://github.com/user-attachments/assets/28cd6b34-ef1b-4e6c-a26f-b916e831004d"> </a><br>
+ - ### **[Non-Malicious Powershell Script Crash](https://github.com/JustinSoflin/non-malicious-powershell-script-crash)**
+   - Investigated a SYSTEM-level PowerShell script crash and how an unhandled exception triggered platform-driven recovery processes without any malicious activity. <br>
+   - Tools Utilized: _`KQL`_ &nbsp; _`MDE`_ &nbsp; _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp;
+<br>
+
+   <a href="https://github.com/JustinSoflin/non-malicious-powershell-script-crash">
+       <img width="900" alt="COPY pwncrypt crash" src="https://github.com/user-attachments/assets/a6ca81e8-7709-4255-8070-1ed6317ab275" /><br>
   <br><br>
 
 - ### **[Log Visualization Maps](https://github.com/JustinSoflin/Log-Visualization-Maps)** 
@@ -82,9 +82,10 @@
   - Identified anomalous activity using KQL. Flagged unauthorized use of Tor browser in company environment. <br>
   - Tools Utilized: _`KQL`_ &nbsp; _`MDE`_ &nbsp; _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp;
  
- - ### **[Non-Malicious Powershell Script Crash](https://github.com/JustinSoflin/non-malicious-powershell-script-crash)**
-   - Investigated a SYSTEM-level PowerShell script crash and how an unhandled exception triggered platform-driven recovery processes without any malicious activity. <br>
-   - Tools Utilized: _`KQL`_ &nbsp; _`MDE`_ &nbsp; _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp;
+- ### [Threat Hunt Lab: "IT Support" Recon Simulation](https://github.com/JustinSoflin/IT-Support-Recon-Simulation)
+   - Investigated simulated “IT support” request.
+   - Uncovered staged reconnaissance, deception, egress testing, and persistence techniques using Azure telemetry.
+   - Tools Utilized: _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp; _`KQL`_ &nbsp;
 <hr/>
 
 ## 4. Cybersecurity Roadmap  
