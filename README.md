@@ -67,7 +67,7 @@
 <Br>
 
 <a href="https://github.com/JustinSoflin/Introduction-to-Tableau">
-<img width="1124" height="635" alt="image" src="https://github.com/user-attachments/assets/507d0c44-c832-4304-b467-1a3996c88607" width="800" /> </a>
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/507d0c44-c832-4304-b467-1a3996c88607" width="800" /> </a>
 
 
 <hr/>
