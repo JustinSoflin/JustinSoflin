@@ -37,13 +37,13 @@
   <br>
      <a href="https://github.com/JustinSoflin/vulnerability-management-project">
   <img width="600" alt="Project Screenshot" src="https://github.com/user-attachments/assets/7e799c68-9d31-4193-b7e2-e99b8d741fa2" />
-</a><br>
+</a>
 
 <br>
 <br>
 
  - ### **[Non-Malicious Powershell Script Crash](https://github.com/JustinSoflin/non-malicious-powershell-script-crash)**
-   - Investigated a SYSTEM-level PowerShell script crash and how an unhandled exception triggered platform-driven recovery processes without any malicious activity. <br>
+   - Investigated a SYSTEM-level PowerShell script crash caused by an unhandled exception that triggered azure-driven recovery processes without any malicious activity. <br>
    - Tools Utilized: _`KQL`_ &nbsp; _`MDE`_ &nbsp; _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp;
 <br>
 
