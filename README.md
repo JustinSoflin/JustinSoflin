@@ -41,7 +41,7 @@
 
 <br>
 
- - ### **[Non-Malicious Powershell Script Crash](https://github.com/JustinSoflin/non-malicious-powershell-script-crash)**
+ - ### **[Unhandled PowerShell Script Crash (Azure Guest Agent Degradation)](https://github.com/JustinSoflin/non-malicious-powershell-script-crash)**
    - Investigated a SYSTEM-level PowerShell script crash caused by an unhandled exception that triggered azure-driven recovery processes without any malicious activity. <br>
    - Tools Utilized: _`KQL`_ &nbsp; _`MDE`_ &nbsp; _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp;
 <br>
