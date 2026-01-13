@@ -40,7 +40,6 @@
 </a>
 
 <br>
-<br>
 
  - ### **[Non-Malicious Powershell Script Crash](https://github.com/JustinSoflin/non-malicious-powershell-script-crash)**
    - Investigated a SYSTEM-level PowerShell script crash caused by an unhandled exception that triggered azure-driven recovery processes without any malicious activity. <br>
