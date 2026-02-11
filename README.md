@@ -33,7 +33,8 @@
 - ### **[Vulnerability Management Program Implementation](https://github.com/JustinSoflin/vulnerability-management-project)**
   - Designed and implemented a full vulnerability management cycle from start to finish: <br>
   - scanning → remediating → maintenance<br>
-  - Tools Utilized: _`KQL`_ &nbsp; _`Azure Virtual Machines`_ &nbsp; _`Tenable`_ <Br>
+  - **Environment:** Cyber Range Lab
+  - **Tools Utilized:** _`KQL`_ &nbsp; _`Azure Virtual Machines`_ &nbsp; _`Tenable`_ <Br>
   <br>
      <a href="https://github.com/JustinSoflin/vulnerability-management-project">
   <img width="600" alt="Project Screenshot" src="https://github.com/user-attachments/assets/7e799c68-9d31-4193-b7e2-e99b8d741fa2" />
@@ -43,7 +44,8 @@
 
  - ### **[Unhandled PowerShell Script Crash (Azure Guest Agent Degradation)](https://github.com/JustinSoflin/non-malicious-powershell-script-crash)**
    - Investigated a SYSTEM-level PowerShell script crash caused by an unhandled exception that triggered azure-driven recovery processes without any malicious activity. <br>
-   - Tools Utilized: _`KQL`_ &nbsp; _`MDE`_ &nbsp; _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp;
+   - **Environment:** Cyber Range Incident Response
+   - **Tools Utilized:** _`KQL`_ &nbsp; _`MDE`_ &nbsp; _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp;
 <br>
 
    <a href="https://github.com/JustinSoflin/non-malicious-powershell-script-crash">
@@ -52,7 +54,8 @@
 
 - ### **[Log Visualization Maps](https://github.com/JustinSoflin/Log-Visualization-Maps)** 
   - Investigated malicious IP traffic and visualized log data using KQL and Azure Workbook maps.<br>
-  - Tools Utilized: _`KQL`_ &nbsp; _`Azure Workbooks`_
+  - **Environment:** Cyber Range Lab
+  - **Tools Utilized:** _`KQL`_ &nbsp; _`Azure Workbooks`_
 <br>
    
 <a href="https://github.com/JustinSoflin/Log-Visualization-Maps">
@@ -62,7 +65,8 @@
 
 - ### [Tableau Interactive Data Dashboards](https://github.com/JustinSoflin/Introduction-to-Tableau)
   - Transformed raw datasets into interactive Tableau dashboards, revealing trends in Airbnb revenue and video game sales for data-driven insights.<Br>
-  - Tools Utilized: _`Tableau Public`_ &nbsp; _`Sample Data Sets`_
+  - **Environment:** Home Lab
+  - **Tools Utilized:** _`Tableau Public`_ &nbsp; _`Sample Data Sets`_
 <Br>
 
 <a href="https://github.com/JustinSoflin/Introduction-to-Tableau">
@@ -75,16 +79,19 @@
 
 - ### **[Data Analysis in Excel](https://github.com/JustinSoflin/Data-Analysis-Project-in-Excel)**
   - Transformed raw datasets into clean, analyzable data; performed descriptive statistics, PivotTable analysis, and interactive dashboard creation. <br>
-  - Tools Utilized: _`Microsoft Excel`_ &nbsp; _`PivotTables`_ &nbsp; _`Slicers`_ &nbsp; _`Descriptive Statistics`_ &nbsp; _`Charts & Dashboards`_ &nbsp; _`Sample Dataset`_  
+  - **Environment:** Home Lab
+  - **Tools Utilized:** _`Microsoft Excel`_ &nbsp; _`PivotTables`_ &nbsp; _`Slicers`_ &nbsp; _`Descriptive Statistics`_ &nbsp; _`Charts & Dashboards`_ &nbsp; _`Sample Dataset`_  
 
 - ### **[Threat Hunt Lab: Tor Browser Usage](https://github.com/JustinSoflin/Threat-Hunting-Scenario-Tor-Browser-Usage-)** 
   - Identified anomalous activity using KQL. Flagged unauthorized use of Tor browser in company environment. <br>
-  - Tools Utilized: _`KQL`_ &nbsp; _`MDE`_ &nbsp; _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp;
+  **Environment:** Cyber Range Simulation
+  - **Tools Utilized:** _`KQL`_ &nbsp; _`MDE`_ &nbsp; _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp;
  
 - ### [Threat Hunt Lab: "IT Support" Recon Simulation](https://github.com/JustinSoflin/IT-Support-Recon-Simulation)
    - Investigated simulated “IT support” request.
    - Uncovered staged reconnaissance, deception, egress testing, and persistence techniques using Azure telemetry.
-   - Tools Utilized: _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp; _`KQL`_ &nbsp;
+   - **Environment:** Cyber Range Simulation
+   - **Tools Utilized:** _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp; _`KQL`_ &nbsp;
 <hr/>
 
 ## 4. Cybersecurity Roadmap  
