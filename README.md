@@ -30,6 +30,18 @@
 
 ## 2. Key Projects
 
+- ### **[Diicot _(aka Mexals)_ Cryptominer Worm Analysis | Full-System Linux Compromise](https://github.com/JustinSoflin/Diicot-Mexals-Cryptominer-Worm-Post-Compromise-Analysis)**
+  - Conducted a full post-compromise forensic investigation of a Linux system infected by the Diicot _(aka Mexals)_ SSH brute-force cryptominer campaign. <br>
+  - Immutable SSH key persistence, script-based payload staging, and cryptomining infrastructure
+  - **Environment:** Cyber Range Forensic Analysis
+  - **Tools Utilized:** _`KQL`_ &nbsp; _`Microsoft Defender for Endpoint`_ &nbsp; _`Log Analytics Workspaces`_ <Br>
+  <br>
+     <a href="https://github.com/JustinSoflin/Diicot-Mexals-Cryptominer-Worm-Post-Compromise-Analysis">
+  <img width="800" alt="Project Screenshot" src="https://github.com/user-attachments/assets/f2418a72-9860-418c-a7d2-263f612a0c24" />
+</a>
+
+<br>
+
 - ### **[Vulnerability Management Program Implementation](https://github.com/JustinSoflin/vulnerability-management-project)**
   - Designed and implemented a full vulnerability management cycle from start to finish: <br>
   - scanning → remediating → maintenance<br>
