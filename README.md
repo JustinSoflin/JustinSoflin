@@ -60,7 +60,7 @@
 <br>
 
    <a href="https://github.com/JustinSoflin/non-malicious-powershell-script-crash">
-       <img width="900" alt="COPY pwncrypt crash" src="https://github.com/user-attachments/assets/aafaedbb-5147-482b-9795-16477443ed2d" /><br>
+       <img width="850" alt="COPY pwncrypt crash" src="https://github.com/user-attachments/assets/aafaedbb-5147-482b-9795-16477443ed2d" /><br>
   <br><br>
 
 - ### **[Log Visualization Maps](https://github.com/JustinSoflin/Log-Visualization-Maps)** 
@@ -81,7 +81,7 @@
 <Br>
 
 <a href="https://github.com/JustinSoflin/Introduction-to-Tableau">
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/e3c80cf3-ca9b-4b40-bc3a-216bc6dda2bd" width="800" /> </a>
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/e3c80cf3-ca9b-4b40-bc3a-216bc6dda2bd" /> </a>
 
 
 <hr/>
