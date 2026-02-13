@@ -37,7 +37,7 @@
   - **Tools Utilized:** _`KQL`_ &nbsp; _`Microsoft Defender for Endpoint`_ &nbsp; _`Log Analytics Workspaces`_ <Br>
   <br>
      <a href="https://github.com/JustinSoflin/Diicot-Mexals-Cryptominer-Worm-Post-Compromise-Analysis">
-  <img width="800" alt="Project Screenshot" src="https://github.com/user-attachments/assets/f2418a72-9860-418c-a7d2-263f612a0c24" />
+  <img width="800" alt="Project Screenshot" src="https://github.com/user-attachments/assets/657aa67a-c784-4e9d-8df2-0791506bb83a" />
 </a>
 
 <br>
@@ -49,9 +49,8 @@
   - **Tools Utilized:** _`KQL`_ &nbsp; _`Azure Virtual Machines`_ &nbsp; _`Tenable`_ <Br>
   <br>
      <a href="https://github.com/JustinSoflin/vulnerability-management-project">
-  <img width="600" alt="Project Screenshot" src="https://github.com/user-attachments/assets/7e799c68-9d31-4193-b7e2-e99b8d741fa2" />
+  <img width="600" alt="Project Screenshot" src="https://github.com/user-attachments/assets/d6fa5821-9220-40de-87f1-5588b0ae9eee" />
 </a>
-
 <br>
 
  - ### **[Unhandled PowerShell Script Crash (Azure Guest Agent Degradation)](https://github.com/JustinSoflin/non-malicious-powershell-script-crash)**
@@ -61,7 +60,7 @@
 <br>
 
    <a href="https://github.com/JustinSoflin/non-malicious-powershell-script-crash">
-       <img width="900" alt="COPY pwncrypt crash" src="https://github.com/user-attachments/assets/a6ca81e8-7709-4255-8070-1ed6317ab275" /><br>
+       <img width="900" alt="COPY pwncrypt crash" src="https://github.com/user-attachments/assets/aafaedbb-5147-482b-9795-16477443ed2d" /><br>
   <br><br>
 
 - ### **[Log Visualization Maps](https://github.com/JustinSoflin/Log-Visualization-Maps)** 
@@ -71,7 +70,7 @@
 <br>
    
 <a href="https://github.com/JustinSoflin/Log-Visualization-Maps">
-      <img src="https://github.com/user-attachments/assets/f0b4a51c-58de-443f-9f00-2603c284af62" width="600" /> </a>
+      <img src="https://github.com/user-attachments/assets/87e3ff25-e365-4ccd-b8d1-040bdc37c4ee" width="600" /> </a>
 <br>
 <br>
 
@@ -82,7 +81,7 @@
 <Br>
 
 <a href="https://github.com/JustinSoflin/Introduction-to-Tableau">
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/507d0c44-c832-4304-b467-1a3996c88607" width="800" /> </a>
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/e3c80cf3-ca9b-4b40-bc3a-216bc6dda2bd" width="800" /> </a>
 
 
 <hr/>
