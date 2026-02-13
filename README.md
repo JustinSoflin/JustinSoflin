@@ -37,7 +37,7 @@
   - **Tools Utilized:** _`KQL`_ &nbsp; _`Microsoft Defender for Endpoint`_ &nbsp; _`Log Analytics Workspaces`_ <Br>
   <br>
      <a href="https://github.com/JustinSoflin/Diicot-Mexals-Cryptominer-Worm-Post-Compromise-Analysis">
-  <img width="800" alt="Project Screenshot" src="https://github.com/user-attachments/assets/5022ea46-ed94-4cec-b246-8b9562238365" />
+  <img width="800" alt="Project Screenshot" src="https://github.com/user-attachments/assets/eff6a867-3558-4d90-9fd4-f51ea69d01dd" />
 </a>
 
 <br>
