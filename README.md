@@ -44,7 +44,7 @@
 
 - ### **[Vulnerability Management Program Implementation](https://github.com/JustinSoflin/vulnerability-management-project)**
   - Designed and implemented a full vulnerability management cycle from start to finish: <br>
-  - scanning → remediating → maintenance<br>
+  - Discover → Prioritize → Assess → Report → Remediate → Verify → Repeat<br>
   - **Environment:** Cyber Range Lab
   - **Tools Utilized:** _`KQL`_ &nbsp; _`Azure Virtual Machines`_ &nbsp; _`Tenable`_ <Br>
   <br>
@@ -55,6 +55,7 @@
 
  - ### **[Unhandled PowerShell Script Crash (Azure Guest Agent Degradation)](https://github.com/JustinSoflin/non-malicious-powershell-script-crash)**
    - Investigated a SYSTEM-level PowerShell script crash caused by an unhandled exception that triggered azure-driven recovery processes without any malicious activity. <br>
+   - Azure Management Plane, Data Plane, Azure Guest Agent
    - **Environment:** Cyber Range Incident Response
    - **Tools Utilized:** _`KQL`_ &nbsp; _`MDE`_ &nbsp; _`Microsoft Azure`_ &nbsp; _`Log Analytics Workspaces`_ &nbsp;
 <br>
