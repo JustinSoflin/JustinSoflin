@@ -121,7 +121,6 @@
 
  **Future:** <br>
 - Enroll in Western Governors University (WGU) online cybersecurity program to expand practical and theoretical expertise
-- Pursue CISSP Certification to advance cybersecurity knowledge and professional credentials  
 
   <br> 
 
