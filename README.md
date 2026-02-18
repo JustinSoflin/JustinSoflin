@@ -24,7 +24,7 @@
 ## 1. Certifications
 
 - [x] [Google Cyber Security Certificate](https://www.coursera.org/account/accomplishments/specialization/3QXOOZZU1CT2) (Completed)
-- [ ] CompTIA Security+ (Currently studying. Expected 2026)
+- [ ] CompTIA Security+ (Expected 2026)
 
 <hr/>
 
