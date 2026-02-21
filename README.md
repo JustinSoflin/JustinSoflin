@@ -122,11 +122,7 @@
  **Future:** <br>
 - Enroll in Western Governors University (WGU) online cybersecurity program to expand practical and theoretical expertise
 
-  <br> 
-
 ---
-
-<br> 
 
 ## 5. Upcoming Projects  
 - **Incident Response Scenario**
